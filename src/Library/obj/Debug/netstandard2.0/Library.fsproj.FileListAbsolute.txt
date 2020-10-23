@@ -1,0 +1,24 @@
+/mnt/c/Akib/Projects/DOS/Project 2/src/Library/bin/Debug/netstandard2.0/Library.deps.json
+/mnt/c/Akib/Projects/DOS/Project 2/src/Library/bin/Debug/netstandard2.0/Library.dll
+/mnt/c/Akib/Projects/DOS/Project 2/src/Library/bin/Debug/netstandard2.0/Library.pdb
+/mnt/c/Akib/Projects/DOS/Project 2/src/Library/obj/Debug/netstandard2.0/Library.fsprojAssemblyReference.cache
+/mnt/c/Akib/Projects/DOS/Project 2/src/Library/obj/Debug/netstandard2.0/Library.AssemblyInfoInputs.cache
+/mnt/c/Akib/Projects/DOS/Project 2/src/Library/obj/Debug/netstandard2.0/Library.AssemblyInfo.fs
+/mnt/c/Akib/Projects/DOS/Project 2/src/Library/obj/Debug/netstandard2.0/Library.dll
+/mnt/c/Akib/Projects/DOS/Project 2/src/Library/obj/Debug/netstandard2.0/Library.pdb
+/mnt/c/Akib/Projects/DOS/Submitted Projects/Project 2/src/Library/bin/Debug/netstandard2.0/Library.deps.json
+/mnt/c/Akib/Projects/DOS/Submitted Projects/Project 2/src/Library/bin/Debug/netstandard2.0/Library.dll
+/mnt/c/Akib/Projects/DOS/Submitted Projects/Project 2/src/Library/bin/Debug/netstandard2.0/Library.pdb
+/mnt/c/Akib/Projects/DOS/Submitted Projects/Project 2/src/Library/obj/Debug/netstandard2.0/Library.fsprojAssemblyReference.cache
+/mnt/c/Akib/Projects/DOS/Submitted Projects/Project 2/src/Library/obj/Debug/netstandard2.0/Library.AssemblyInfoInputs.cache
+/mnt/c/Akib/Projects/DOS/Submitted Projects/Project 2/src/Library/obj/Debug/netstandard2.0/Library.AssemblyInfo.fs
+/mnt/c/Akib/Projects/DOS/Submitted Projects/Project 2/src/Library/obj/Debug/netstandard2.0/Library.dll
+/mnt/c/Akib/Projects/DOS/Submitted Projects/Project 2/src/Library/obj/Debug/netstandard2.0/Library.pdb
+/mnt/c/Akib/Projects/DOS/Gossip/src/Library/bin/Debug/netstandard2.0/Library.deps.json
+/mnt/c/Akib/Projects/DOS/Gossip/src/Library/bin/Debug/netstandard2.0/Library.dll
+/mnt/c/Akib/Projects/DOS/Gossip/src/Library/bin/Debug/netstandard2.0/Library.pdb
+/mnt/c/Akib/Projects/DOS/Gossip/src/Library/obj/Debug/netstandard2.0/Library.fsprojAssemblyReference.cache
+/mnt/c/Akib/Projects/DOS/Gossip/src/Library/obj/Debug/netstandard2.0/Library.AssemblyInfoInputs.cache
+/mnt/c/Akib/Projects/DOS/Gossip/src/Library/obj/Debug/netstandard2.0/Library.AssemblyInfo.fs
+/mnt/c/Akib/Projects/DOS/Gossip/src/Library/obj/Debug/netstandard2.0/Library.dll
+/mnt/c/Akib/Projects/DOS/Gossip/src/Library/obj/Debug/netstandard2.0/Library.pdb

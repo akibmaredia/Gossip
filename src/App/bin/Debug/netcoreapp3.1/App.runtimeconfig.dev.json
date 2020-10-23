@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/akibmaredia/.dotnet/store/|arch|/|tfm|",
+      "/home/akibmaredia/.nuget/packages"
+    ]
+  }
+}

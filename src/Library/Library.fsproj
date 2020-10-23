@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Messages.fs" />
+    <Compile Include="Algorithms.fs" />
+    <Compile Include="GossipNode.fs" />
+    <Compile Include="Topologies.fs" />
+    <Compile Include="GossipSimulator.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="akka" Version="1.4.10" />
+    <PackageReference Include="akka.fsharp" Version="1.4.10" />
+    <PackageReference Include="akka.remote" Version="1.4.10" />
+  </ItemGroup>
+
+</Project>
