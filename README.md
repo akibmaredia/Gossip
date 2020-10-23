@@ -1,15 +1,10 @@
 # COP-5615 - Distributed Operating Systems
 
-## Project 2 - Gossip
-
-### Raed Alharbi - 36559623
-
-### Akib Maredia - 38856489
+# Gossip Simulator
 
 ## Instructions for running the code
 
-* Unzip the zipped folder `Alharbi_Maredia.zip`
-* Go to the Alharbi_Maredia/src/App directory or use ```cd Alharbi_Maredia/src/App``` command on the terminal
+* Go to the src/App directory or use ```$ cd src/App``` command on the terminal
 * type ``` dotnet run --project App.fsproj -- <number of nodes> "<topology>" "<algorithm>" ```
 * Here <`number of nodes`> can be any integer,
 * <`topology`> is a string and one of the four topologies
